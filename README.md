@@ -1,4 +1,4 @@
-# FilesGatheringAutomation
+# Excel Drag Files from Different Folders
 
 This program will develop an user-friendly excel interface for people who are not familiar with Python. People can make dual choices in excel or even update new changes in excel without updating the Python code. Its dragging file running time is also less than using macro.
 
